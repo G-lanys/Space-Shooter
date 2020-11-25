@@ -1,5 +1,5 @@
 <h1 align="center">Space Shooter | Space Invaders</h1>
-<div align="center"><img src="./img/jogo.PNG"></div>
+<div align="center"><img src="img/jogo.png"></div>
 
 <p align="center">
  <a href="#computer-sobre">• Sobre o Jogo</a> | 
